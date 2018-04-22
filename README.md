@@ -14,7 +14,11 @@ Does not execute queries. Not suitable for mocking state transitions.
 Mocks database driver (basically deregisters existing drivers, registers itself as the driver and mocks everything) and this makes its usage pretty straight forward.
 Does not execute queries. Not suitable for mocking state transitions.
 
+# Database-rider
 
+Should check this one as well:
+
+https://github.com/database-rider/database-rider
 
 
 
