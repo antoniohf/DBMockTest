@@ -1,8 +1,10 @@
-# DBMockTest
+# DataBase mocking tests
 
 
-This was just a simple test to see how JOOQ jdbc mocks work. 
+This is a simple test to have a reference on how different DataBase mocking libraries work.
 
-Beware this is done on Java 7 and uses an old version of JOOQ due to Java 7 compatibility (we all love legacy code, right?! :) ).
+# JOOQ
+
+Mocks databse connection. 
 
 
