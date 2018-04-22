@@ -9,6 +9,8 @@ This is a simple test to have a reference on how different DataBase mocking libr
 Only mocks the database connection.
 Does not execute queries. Not suitable for mocking state transitions.
 
+https://github.com/jOOQ/jOOQ
+
 # Mockrunner-jdbc
 
 Mocks database driver (basically deregisters existing drivers, registers itself as the driver and mocks everything) and this makes its usage pretty straight forward.
